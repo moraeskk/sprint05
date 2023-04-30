@@ -1,0 +1,5 @@
+2 - Para o correto funcionamento da comunicação entre o micro serviço e o Banco de Dados, 
+foi preciso ajustar o arquivo “application.yml” conforme destacado no código abaixo. 
+O que é a configuração “ddl-auto: update”?
+
+Toda vez que a Api for executada,o hibernate vai comparar o que esta no seu banco com os modelos e gerar as alterações conforme os modelos.

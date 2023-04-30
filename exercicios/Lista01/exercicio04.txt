@@ -1,0 +1,4 @@
+4 - Quais são as diferenças entre uma abordagem “Code First” e uma abordagem “Database First”?
+
+no code first, o banco de dados é montado pela IDE.
+no database first, o sistema é gerado de uma vez e toda implementação é feita de maneira manual.

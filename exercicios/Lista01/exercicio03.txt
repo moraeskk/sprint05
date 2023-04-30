@@ -1,0 +1,4 @@
+Para manipular o banco de dados e os registros de suas tabelas, 
+o Spring Data JPA utiliza o conceito de ORM, Mapeamento Objeto Relacional em português. 
+Dito isto, como uma classe de modelo deve ser configurada de modo que seja visualizada pelo ORM?
+
